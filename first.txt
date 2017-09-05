@@ -1,2 +1,4 @@
 salam kekes kukish vetkatest
 novaya stroka
+
+text iz vetki 2
